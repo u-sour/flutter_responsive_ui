@@ -4,6 +4,12 @@ it's just review how to design a responsive UI on Flutter.
 It will adjust automatically for mobile + tablet + desktop.
 I used a layout builder, aspect ratio and expanded widgets mainly to achieve this.
 
+## Demo
+
+
+https://github.com/u-sour/flutter_responsive_ui/assets/145416126/4dc74c60-7d2a-4c7a-bbb2-675f1238ea03
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
